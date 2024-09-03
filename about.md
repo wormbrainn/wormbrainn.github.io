@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Norzin :) I am a cool person who is very cool.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+meowmeowmeowmeowmeow 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+worms1nbrainn@gmail.com 
