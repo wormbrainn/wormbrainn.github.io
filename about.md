@@ -7,6 +7,7 @@ permalink: /about/
 I am Norzin :) I am a cool person who is very cool. This is my website. 
 ദ്ദി（• ˕ •マ.ᐟ
 
+![ ](/images/921fc49a8244fa87bf362d99c7371a49.jpg)
 
 
 
