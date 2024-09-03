@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-I am Norzin :) I am a cool person who is very cool.
+I am Norzin :) I am a cool person who is very cool. This is my website. 
+. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣄⠀⣀⣀⣀⠀⠀⠀⠀
+⠀⠀⠀⣴⠟⠛⠓⠶⣤⠴⠶⢶⡿⠁⣶⣽⣯⠉⠁⠹⡆⠀⠀⠀
+⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⢸⡁⢼⣿⡏⠙⠻⣾⡛⢿⣆⠀⠀
+⠀⠀⠀⣻⠋⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠷⣤⣼⣯⠟⣸⡟⠀⠀
+⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠶⠞⢙⣆⣀⠀
+⢠⡶⢾⡶⠤⠀⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀⣤⡄⠀⠚⢩⡏⠉⠁
+⠀⢀⣼⣷⠒⠀⠈⠋⠀⠀⠀⢶⡲⠀⠀⠀⠛⠁⠀⡈⣹⠛⠛⠀
+⠀⠀⢠⡼⠷⣯⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠿⠛⠷⠆⠀
+⠀⠀⠈⠀⠀⠀⠉⠙⠓⠒⠶⠶⠶⠶⠒⠚⠛⠉⠁⠀⠀⠀⠀⠀
+         
 
 ### More Information
 
 meowmeowmeowmeowmeow 
 
-### Contact me
+### please hesitate to contact me
 
 worms1nbrainn@gmail.com 
