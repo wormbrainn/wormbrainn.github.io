@@ -1,6 +1,1 @@
----
-layout: page
-title: meow
-permalink: /meow/
-
-moewwwwwwwwwwwwwwwwwwwwwwwwwwww
+i don't know how this works 
